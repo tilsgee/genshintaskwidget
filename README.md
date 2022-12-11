@@ -10,17 +10,17 @@
 
 [GitHub Releases](https://github.com/xunkong/widget/releases)
 
-## 使用方法
+## Usage
 
 懂得都懂，不懂的看[这个](https://xunkong.cc/help/desktop/account.html)
 
 ## 截图
 
-**Normal Window**
+**Screenshot**
 
 ![Screenshot](img/Snipaste_20220625_204008.webp)
 
-**Xbox Game Bar**
+**Screenshot(Xbox Game Bar)**
 
 ![Xbox Game Bar](img/Snipaste_20220625_204040.webp)
 
