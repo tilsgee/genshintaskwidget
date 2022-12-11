@@ -24,7 +24,7 @@
 
 ![Xbox Game Bar](img/Snipaste_20220625_204040.webp)
 
-**Available for Win10 **
+**Available for Win0**
 
 图略
 
