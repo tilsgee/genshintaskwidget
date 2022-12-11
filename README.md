@@ -28,10 +28,10 @@
 
 图略
 
-## 其他
+## Contact Us
 
-应用图标来源：[Bilibili@QuAn__](https://t.bilibili.com/575371497058829825)
+Original Creator：[Bilibili@QuAn__](https://t.bilibili.com/575371497058829825)
 
-[隐私策略](./Privacy.md)
+[Privacy Policy](./Privacy.md)
 
-Translated by Tils-Gee
+Translated by [Tils-Gee](https://linktr.ee/tl.gee)
