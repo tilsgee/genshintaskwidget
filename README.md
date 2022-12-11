@@ -1,4 +1,4 @@
-# 寻空小组件
+# 寻空小组寻件
 
 > 系统升 Win11 了，没有磁贴很不适应，于是把目光转向了 Xbox Game Bar
 
@@ -16,15 +16,15 @@
 
 ## 截图
 
-**普通窗口**
+**Normal Window**
 
-![普通窗口](img/Snipaste_20220625_204008.webp)
+![Screenshot](img/Snipaste_20220625_204008.webp)
 
 **Xbox Game Bar**
 
 ![Xbox Game Bar](img/Snipaste_20220625_204040.webp)
 
-**Win10 磁贴**
+**Available for Win10 **
 
 图略
 
@@ -33,3 +33,5 @@
 应用图标来源：[Bilibili@QuAn__](https://t.bilibili.com/575371497058829825)
 
 [隐私策略](./Privacy.md)
+
+Translated by Tils-Gee
